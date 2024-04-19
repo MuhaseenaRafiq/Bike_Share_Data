@@ -1,5 +1,4 @@
 # Bike_Share_Data
-# Predicting Bike Sharing Demand
 
 Data Set
 
